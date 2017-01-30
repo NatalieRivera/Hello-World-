@@ -12,6 +12,6 @@ Favorite Things:
 
 <br>
 
-An image of chocolate chip cookies!:<br>
+An image of chocolate chip cookies:<br>
 <img src="http://images-gmi-pmc.edge-generalmills.com/eb52c020-c145-440c-8445-911f133c0096.jpg">
 <br>
